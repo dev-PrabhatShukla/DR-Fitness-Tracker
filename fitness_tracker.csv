@@ -1,0 +1,611 @@
+Brand Name,Device Type,Model Name,Color,Selling Price,Original Price,Display,Rating (Out of 5),Strap Material,Average Battery Life (in days),Reviews,Number_Of_Tracker,,Most_Used_In_Countries
+Xiaomi,FitnessBand,Smart Band 5,Black,799,"2,999",AMOLED Display,4.1,Thermoplastic polyurethane,14,3,1,,India
+Xiaomi,FitnessBand,Smart Band 4,Black,949,"2,499",AMOLED Display,4.2,Thermoplastic polyurethane,14,1,1,,India
+Xiaomi,FitnessBand,HMSH01GE,Black,"1,099","2,099",LCD Display,3.5,Leather,14,1,1,,India
+Xiaomi,FitnessBand,Smart Band 5,Black,"1,195","2,999",AMOLED Display,4.1,Thermoplastic polyurethane,14,1,1,,India
+Xiaomi,FitnessBand,Band 3,Black,"1,270","2,199",OLED Display,4.3,Plastic,7,0,1,,India
+Xiaomi,FitnessBand,Band - HRX Edition,Black,"1,283","1,799",OLED Display,4.2,Plastic,20,4,1,,India
+Xiaomi,FitnessBand,Band 2,Black,"1,290","2,499",OLED Display,4.3,Plastic,7,3,1,,India
+Xiaomi,Smartwatch,Revolve,Black,"1,299","15,999",AMOLED Display,4.4,Silicone,14,2,1,,India
+Xiaomi,Smartwatch,RevolveActive,Black,"1,299","15,999",AMOLED Display,4.4,Silicone,14,3,1,,USA
+Xiaomi,FitnessBand,Smart Band 3i,Black,"1,395","1,599",OLED Display,4.2,Thermoplastic polyurethane,7,2,1,,USA
+OnePlus ,FitnessBand,Steven Harrington Edition Band,Blue,"1,399","3,999",AMOLED Display,4.3,Thermoplastic polyurethane,7,3,1,,Russia
+OnePlus ,FitnessBand,Band,Dual Color,"1,450","2,799",AMOLED Display,4.2,Thermoplastic polyurethane,7,4,1,,Russia
+FitBit,Smartwatch,Versa 2,Dual Color,"1,499","14,999",AMOLED Display,4.3,Silicone,7,4,1,,Russia
+FitBit,Smartwatch,Sense,Dual Color,"1,499","22,999",AMOLED Display,4.2,Elastomer,7,3,1,,Russia
+FitBit,Smartwatch,Versa 3,Dual Color,"1,499","18,999",AMOLED Display,4.3,Elastomer,7,1,1,,India
+FitBit,FitnessBand,Charge 4,Dual Color,"1,595","9,999",PMOLED Display,4.2,Elastomer,7,5,1,,India
+FitBit,FitnessBand,Inspire,Dual Color,"1,645","7,999",LED Display,4.2,Silicone,5,5,1,,India
+FitBit,FitnessBand,Inspire 2,Dual Color,"1,649","7,999",PMOLED Display,4.4,Thermoplastic polyurethane,10,4,1,,USA
+FitBit,FitnessBand,Lunar,Dual Color,"1,699","10,999",AMOLED Display,4.7,Silicone,7,1,1,,USA
+FitBit,FitnessBand,Charge 4,Dual Color,"1,699","11,999",PMOLED Display,4.2,Elastomer,7,1,1,,Nepal
+FitBit,FitnessBand,FB413LVLV,Dual Color,"1,699","38,500",AMOLED Display,4.1,Silicone,5,2,1,,USA
+FitBit,FitnessBand,Flex Small,Dual Color,"1,699","8,490",OLED Display,3.8,Rubber,5,2,1,,USA
+FitBit,FitnessBand,Inspire HR,Dual Color,"1,722","8,999",LED Display,4.3,Silicone,5,2,1,,USA
+FitBit,FitnessBand,Inspire,Dual Color,"1,799","7,999",LED Display,4.2,Silicone,5,3,1,,USA
+FitBit,FitnessBand,Charge 3,Dual Color,"1,799","13,999",OLED Display,4.3,Silicone,7,2,1,,France
+FitBit,Smartwatch,Versa Special Edition,Dual Color,"1,899","23,499",AMOLED Display,4.1,Fabric,7,1,1,,France
+FitBit,Smartwatch,Ionic,Dual Color,"1,899","24,999",LCD Display,4.1,Elastomer,7,2,1,,USA
+FitBit,Smartwatch,Versa 2 Special Edition,Dual Color,"1,999","23,999",AMOLED Display,4.4,Silicone,7,4,1,,France
+FitBit,Smartwatch,Ionic,Dual Color,"1,999","24,999",LCD Display,4.1,Elastomer,7,5,1,,Sri Lanka
+FitBit,Smartwatch,Ionic,Dual Color,"1,999","26,499",LCD Display,4.1,Elastomer,7,3,1,,France
+FitBit,Smartwatch,Versa,Dual Color,"1,999","23,499",AMOLED Display,4.1,Silicone,7,2,1,,France
+FitBit,Smartwatch,Versa,Dual Color,"1,999","21,499",AMOLED Display,4.2,Silicone,7,1,1,,France
+FitBit,Smartwatch,Surge,Dual Color,"2,000","24,990",LCD Display,3.8,Elastomer,7,2,1,,France
+FitBit,FitnessBand,Charge 2,Dual Color,"2,099","14,999",PMOLED Display,4.3,Silicone,7,3,1,,India
+FitBit,FitnessBand,Charge 3 Special Edition,Dual Color,"2,099","15,999",OLED Display,4,Silicone,7,4,1,,India
+FitBit,Smartwatch,Blaze,Dual Color,"2,199","19,999",LCD Display,4.2,Elastomer,7,3,1,,India
+FitBit,Smartwatch,Blaze,Dual Color,"2,199","19,999",LCD Display,4.2,Elastomer,7,2,1,,India
+FitBit,Smartwatch,Blaze,Dual Color,"2,199","22,999",LCD Display,4.2,Elastomer,7,1,1,,India
+FitBit,Smartwatch,Surge,Dual Color,"2,199","19,990",LCD Display,3.8,Elastomer,7,2,1,,India
+FitBit,FitnessBand,Alta HR,Dual Color,"2,200","14,999",OLED Display,4.3,Elastomer,7,3,1,,India
+FitBit,FitnessBand,Charge 2,Dual Color,"2,469","14,999",PMOLED Display,4.4,Silicone,7,4,1,,India
+FitBit,Smartwatch,Versa Lite Edition,Dual Color,"2,469","16,999",AMOLED Display,4.2,Elastomer,7,5,1,,India
+FitBit,Smartwatch,Surge,Dual Color,"2,490","24,990",LCD Display,3.8,Elastomer,7,3,1,,India
+FitBit,Smartwatch,versa,Dual Color,"2,495","21,499",AMOLED Display,4.1,Silicone,7,6,1,,India
+FitBit,Smartwatch,Versa,Dual Color,"2,499","19,999",AMOLED Display,4.1,Silicone,7,4,1,,India
+FitBit,FitnessBand,Charge HR,Dual Color,"2,499","14,990",OLED Display,3.9,Thermoplastic polyurethane,7,8,1,,India
+FitBit,FitnessBand,Charge HR,Dual Color,"2,499","14,990",OLED Display,3.9,Thermoplastic polyurethane,7,3,1,,India
+FitBit,FitnessBand,Alta HR,Dual Color,"2,499","16,999",OLED Display,4.3,Elastomer,7,2,1,,India
+FitBit,Smartwatch,Versa Lite Edition,Dual Color,"2,499","15,999",AMOLED Display,4.2,Elastomer,7,4,1,,India
+FitBit,FitnessBand,Alta,Dual Color,"2,499","12,999",OLED Display,4.1,Elastomer,7,2,1,,India
+FitBit,Smartwatch,Versa 3,Dual Color,"2,499","18,999",AMOLED Display,4.3,Elastomer,7,3,1,,India
+FitBit,FitnessBand,Charge 2,Violet ,"2,499","14,999",PMOLED Display,4.3,Silicone,7,1,1,,India
+FitBit,Smartwatch,Versa,Violet ,"2,499","21,499",AMOLED Display,4.1,Silicone,7,2,1,,India
+FitBit,Smartwatch,Versa 2,Violet ,"2,499","21,999",AMOLED Display,4.3,Silicone,7,3,1,,India
+FitBit,Smartwatch,Surge,Violet ,"2,499","19,990",LCD Display,3.8,Elastomer,7,2,1,,India
+FitBit,FitnessBand,Charge 3,Violet ,"2,499","13,999",OLED Display,4.3,Silicone,7,1,1,,India
+FitBit,FitnessBand,Charge 2,Violet ,"2,499","14,999",PMOLED Display,4.3,Silicone,7,2,1,,India
+FitBit,FitnessBand,Charge 2,Violet ,"2,499","14,999",PMOLED Display,4.4,Silicone,7,1,1,,India
+FitBit,FitnessBand,Charge 2,Violet ,"2,499","14,999",PMOLED Display,4.4,Silicone,7,2,1,,India
+FitBit,FitnessBand,Charge 2,Violet ,"2,513","14,999",PMOLED Display,4.3,Silicone,7,2,1,,India
+FitBit,FitnessBand,Charge 2,Violet ,"2,599","14,999",PMOLED Display,4.3,Silicone,7,2,1,,India
+FitBit,FitnessBand,Inspire HR,Violet ,"2,599","9,999",LED Display,4.3,Silicone,5,2,1,,India
+FitBit,FitnessBand,Inspire HR,Violet ,"2,699","9,999",LED Display,4.3,Silicone,5,2,1,,India
+realme,FitnessBand,Band 2,Violet ,"2,699","3,499",TFT-LCD Display,4.1,Silicone,7,2,1,,India
+realme,FitnessBand,Band,Violet ,"2,699","2,999",TFT-LCD Display,4,Silicone,7,2,1,,India
+realme,FitnessBand,Smart band,Violet ,"2,700","2,999",TFT-LCD Display,4,Silicone,7,1,1,,India
+realme,FitnessBand,Band,Violet ,"2,799","2,999",TFT-LCD Display,4,Silicone,7,1,1,,India
+Huawei,FitnessBand,Band 4,Violet ,"2,799","3,099",TFT-LCD Display,4.2,Silicone,7,3,1,,India
+Huawei,FitnessBand,Band 2,Violet ,"2,799","4,999",PMOLED Display,4.1,Silicone,7,2,1,,India
+Huawei,FitnessBand,Band 2,Red,"2,899","6,999",PMOLED Display,4.2,Silicone,7,1,1,,India
+Huawei,FitnessBand,Band 2,Red,"2,949","4,599",PMOLED Display,4.1,Silicone,7,2,1,,India
+Huawei,FitnessBand,Band 6,Red,"2,995","9,990",PMOLED Display,4.4,Silicone,7,3,1,,India
+Huawei,FitnessBand,Band 2 Pro Activity,Red,"2,999","5,999",PMOLED Display,4.1,Silicone,7,1,1,,India
+Honor,FitnessBand,Band 6,Red,"2,999","5,999",AMOLED Display,4.3,Plastic,14,4,1,,India
+Honor,FitnessBand,Band 4,Red,"2,999","2,999",AMOLED Display,4.4,Plastic,7,3,1,,India
+Honor,FitnessBand,Band 3,Red,"2,999","2,999",AMOLED Display,4.3,Plastic,7,3,1,,India
+Honor,FitnessBand,Band 5i,Red,"2,999","2,999",LCD Display,4.2,Plastic,7,4628,1,,India
+Honor,FitnessBand,Band 3,Red,"2,999","2,999",PMOLED Display,4.3,Plastic,7,23426,1,,India
+Honor,FitnessBand,Band 5,Red,"2,999","2,999",AMOLED Display,4.4,Plastic,14,4628,1,,India
+Honor,FitnessBand,Band 5,Red,"2,999","2,999",AMOLED Display,4.4,Plastic,14,4628,1,,India
+Honor,FitnessBand,Band 5,Red,"2,999","2,999",AMOLED Display,4.4,Plastic,14,4628,1,,India
+Honor,FitnessBand,Band 4,Red,"2,999","2,999",AMOLED Display,4.4,Plastic,7,17809,1,,India
+Honor,FitnessBand,Band 5i,Red,"2,999","2,999",LCD Display,4.2,Plastic,14,4628,1,,India
+Honor,FitnessBand,band 4 running,Red,"2,999","2,000",AMOLED Display,3.2,Plastic,7,4628,1,,India
+Honor,FitnessBand,Band Z1,Red,"3,297","5,499",AMOLED Display,3.9,Plastic,14,77,1,,India
+Honor,FitnessBand,Band 3,Red,"3,299","5,499",OLED Display,4.3,Plastic,7,122,1,,India
+GOQii,FitnessBand,Beat,Red,"3,299","2,999",OLED Display,2.8,Silicone,7,56,1,,India
+GOQii,FitnessBand,Vital 3.0,Red,"3,299","3,999",OLED Display,3.1,Silicone,7,4,1,,India
+Infinix,FitnessBand,Band 5,Red,"3,299","2,999",TFT-LCD Display,3.8,Silicone,4,34,1,,India
+LCARE,Smartwatch,Watch,Red,"3,499","4,495",OLED Display,3.5,Silicone,7,34,1,,India
+LCARE,FitnessBand,Mambo,Violet ,"3,499","2,995",OLED Display,3.8,Silicone,4,22,1,,India
+LAVA,FitnessBand,BeFit,Violet ,"3,499","3,499",LCD Display,3.6,Thermoplastic polyurethane,7,543,1,,India
+Noise,FitnessBand,ColorFit,Violet ,"3,499","2,499",LCD Display,3.6,Silicone,3,34,1,,India
+Noise,FitnessBand,ColorFit2,Violet ,"3,499","2,499",TFT-LCD Display,3.9,Thermoplastic polyurethane,7,23,1,,India
+Oppo,Smartwatch,46 mm,Violet ,"3,499","19,990",AMOLED Display,3.9,Rubber,14,484,1,,India
+Oppo,Smartwatch,41mm,Violet ,"3,499","24,990",AMOLED Display,3.9,Rubber,14,23,1,,India
+realme,Smartwatch,2 Pro,Violet ,"3,499","5,999",AMOLED Display,4.4,Silicone,14,338,1,,India
+realme,Smartwatch,2S,Violet ,"3,799","3,999",AMOLED Display,4.2,Silicone,7,928,1,,India
+realme,Smartwatch,S,Violet ,"3,799","7,999",AMOLED Display,4.3,Silicone,14,"4,142",1,,India
+realme,Smartwatch,S,Violet ,"3,799","7,999",AMOLED Display,4.3,Silicone,14,5,1,,India
+realme,Smartwatch,S Pro,Violet ,"3,799","12,999",AMOLED Display,4.1,Silicone,14,4,1,,India
+realme,Smartwatch,S Master,Violet ,"3,799","8,999",AMOLED Display,4.3,Silicone,14,3,1,,India
+realme,Smartwatch,Fashion,Violet ,"3,921","6,999",TFT-LCD Display,4,Silicone,14,5,1,,India
+realme,Smartwatch,Classic,Violet ,"3,999","6,999",TFT-LCD Display,4,Silicone,7,443,1,,India
+Fastrack,Smartwatch,Reflex 3.0,Violet ,"3,999","2,995",TFT-LCD Display,3.8,Silicone,7,3,1,,India
+Fastrack,Smartwatch,Reflex 3.0,Violet ,"3,999","2,995",TFT-LCD Display,4.1,Silicone,4,34,1,,India
+Fastrack,Smartwatch,Reflex Beat,Violet ,"3,999","2,195",TFT-LCD Display,4,Silicone,4,3,1,,India
+Fastrack,FitnessBand,Reflex Smart Band,Violet ,"3,999","1,995",OLED Display,4,Silicone,4,44,1,,India
+Fastrack,FitnessBand,Reflex Smart Band,Violet ,"3,999","1,995",OLED Display,4.1,Silicone,4,5,1,,India
+Fastrack,Smartwatch,Reflex 2.0,Violet ,"3,999","1,995",TFT-LCD Display,4.1,Silicone,10,5,1,,India
+boAt ,Smartwatch,Storm,Violet ,"4,190","5,990",LCD Display,4.1,Thermoplastic polyurethane,7,3,1,,India
+boAt ,Smartwatch,Xplorer,Violet ,"4,399","7,990",LCD Display,3.8,Thermoplastic polyurethane,10,4,1,,India
+boAt ,Smartwatch,Delta,Violet ,"4,490","5,990",LCD Display,3.6,Silicone,7,53,1,,India
+boAt ,Smartwatch,O2,Violet ,"4,499","7,990",LCD Display,4.1,Thermoplastic polyurethane,10,20122,1,,India
+Noise ,Smartwatch,ColorFit Qube SpO2,Violet ,"4,499","4,999",AMOLED Display,4.3,Thermoplastic polyurethane,7,54,1,,India
+Noise ,Smartwatch,ColorFit Pro 3,Violet ,"4,599","5,999",AMOLED Display,4.2,Thermoplastic polyurethane,7,3,1,,India
+Noise ,Smartwatch,ColorFit Qube SpO2,Violet ,"4,750","4,999",AMOLED Display,4.3,Thermoplastic polyurethane,7,2,1,,India
+Noise ,Smartwatch,ColorFit Brio,Violet ,"4,800","5,999",AMOLED Display,4.3,Thermoplastic polyurethane,10,4,1,,India
+Noise ,Smartwatch,ColorFit Pro 2,Violet ,"4,950","4,999",AMOLED Display,4.1,Silicone,10,4,1,,India
+Noise ,Smartwatch,Fit Active,Violet ,"4,999","5,999",AMOLED Display,4.2,Silicone,7,54,1,,India
+Noise ,Smartwatch,ColorFit Qube,Violet ,"4,999","4,999",AMOLED Display,4,Thermoplastic polyurethane,7,3,1,,India
+Noise ,Smartwatch,ColorFit Pro 2 Oxy,Violet ,"4,999","4,999",AMOLED Display,4,Thermoplastic polyurethane,7,4,1,,India
+Noise ,Smartwatch,ColorFit Brio,Violet ,"4,999","5,999",AMOLED Display,4.3,Thermoplastic polyurethane,7,3,1,,India
+Noise ,Smartwatch,NoiseFit Endure,Violet ,"4,999","5,999",AMOLED Display,3.9,Silicone,7,436,1,,India
+Noise ,Smartwatch,NoiseFit Endure,Violet ,"4,999","5,999",AMOLED Display,3.9,Silicone,7,6,1,,India
+Noise ,Smartwatch,ColorFit Pro,Violet ,"4,999","4,999",AMOLED Display,3.9,Silicone,7,765,1,,India
+Noise ,Smartwatch,ColorFit Pro,Violet ,"5,299","4,999",AMOLED Display,3.9,Silicone,7,55,1,,India
+Noise ,Smartwatch,Fit Evolve,Violet ,"5,299","7,999",AMOLED Display,3.9,Thermoplastic polyurethane,7,654,1,,India
+Noise ,Smartwatch,Fusiom Hybrid,Violet ,"5,299","9,999",AMOLED Display,4,Thermoplastic polyurethane,7,6,1,,India
+Noise ,Smartwatch,Evolve,Violet ,"5,400","7,999",AMOLED Display,3.9,Thermoplastic polyurethane,7,7,1,,India
+Noise ,Smartwatch,NoiseFit Endure,Violet ,"5,499","5,999",AMOLED Display,3.9,Thermoplastic polyurethane,7,5890,1,,India
+Honor,Smartwatch,Z1,Violet ,"5,499","5,499",OLED Display,3.1,Silicone,14,9,1,,India
+Honor,Smartwatch,GS Pro,Violet ,"5,499","20,999",AMOLED Display,4.4,Nylon,25,215,1,,India
+Honor,Smartwatch,GS Pro,Violet ,"5,499","20,999",AMOLED Display,4.4,Nylon,25,215,1,,India
+Honor,Smartwatch,Watch Magic,Violet ,"5,499","17,999",AMOLED Display,4.3,Silicone,7,281,1,,India
+Honor,Smartwatch,Magic Watch 2,Violet ,"5,499","15,999",AMOLED Display,4.4,Leather,14,1663,1,,India
+Honor,Smartwatch,Watch ES,Violet ,"5,499","10,999",AMOLED Display,4.3,Silicone,10,354,1,,India
+Honor,Smartwatch,Magic Watch,Violet ,"5,499","17,999",AMOLED Display,4.3,Silicone,7,281,1,,India
+huami,Smartwatch,Amazfit GTS,Violet ,"5,598","12,999",AMOLED Display,4.3,Silicone,14,1907,1,,India
+huami,Smartwatch,Amazfit GTS,Violet ,"5,599","12,999",AMOLED Display,4.3,Silicone,14,1907,1,,India
+huami,Smartwatch,Amazfit GTS,Pink,"5,846","12,999",AMOLED Display,4.3,Silicone,14,1907,1,,India
+huami,Smartwatch,Amazfit GTS,Blue,"5,846","12,999",AMOLED Display,4.3,Silicone,14,1907,1,,India
+huami,Smartwatch,Amazfit Bip U,Blue,"5,899","5,999",AMOLED Display,4.2,Silicone,9,1334,1,,India
+huami,Smartwatch,Amazfit Bip S Lite,Blue,"5,999","4,999",AMOLED Display,3.9,Silicone,14,849,1,,India
+huami,Smartwatch,Amazfit T-Rex,Blue,"5,999","10,999",AMOLED Display,4.3,Silicone,20,359,1,,India
+huami,Smartwatch,Amazfit GTS 2e,Blue,"5,999","13,999",AMOLED Display,4.2,Silicone,14,294,1,,India
+huami,Smartwatch,Amazfit GTR 2 Aluminium,Blue,"5,999","17,999",AMOLED Display,4.1,Silicone,10,647,1,,India
+huami,Smartwatch,Amazfit GTS 2,Blue,"5,999","17,999",AMOLED Display,4.1,Silicone,7,153,1,,India
+huami,Smartwatch,Amazfit GTR 2 Stainless Steel,Blue,"5,999","17,999",AMOLED Display,4.1,Silicone,10,647,1,,India
+huami,Smartwatch,Amazfit Bip,Blue,"6,399","6,999",AMOLED Display,4.2,Silicone,28,4651,1,,India
+huami,Smartwatch,Amazfit GTR 42 mm Glitter,Blue,"6,779","16,999",AMOLED Display,4.2,Silicone,12,3,1,,India
+huami,Smartwatch,Amazfit Neo,Blue,"6,990","3,999",AMOLED Display,4.2,Thermoplastic polyurethane,7,176,1,,India
+huami,Smartwatch,Amazfit Bip S,Blue,"6,995","6,499",AMOLED Display,4,Thermoplastic polyurethane,15,489,1,,India
+huami,Smartwatch,Amazfit GTR 42,Blue,"6,995","12,999",AMOLED Display,4.3,Silicone,14,4,1,,India
+huami,Smartwatch,Amazfit Stratos 3,Blue,"6,995","17,999",AMOLED Display,3.7,Silicone,14,45,1,,India
+huami,Smartwatch,Amazfit GTR 42,Blue,"6,995","12,999",AMOLED Display,4.3,Silicone,12,146,1,,India
+huami,Smartwatch,Amazfit Pace,Blue,"6,995","10,999",AMOLED Display,4.2,Silicone,14,34,1,,India
+huami,Smartwatch,Amazfit Bip S,Blue,"6,995","4,999",AMOLED Display,3.9,Thermoplastic polyurethane,15,489,1,,India
+huami,Smartwatch,Amazfit Bip S,Blue,"6,995","4,999",AMOLED Display,3.9,Thermoplastic polyurethane,15,489,1,,India
+huami,Smartwatch,Amazfit Bip,Blue,"6,995","5,990",AMOLED Display,4.2,Silicone,28,489,1,,India
+huami,Smartwatch,Amazfit Bip S,Blue,"6,995","5,999",AMOLED Display,4,Thermoplastic polyurethane,15,489,1,,India
+huami,Smartwatch,Amazfit GTR 47,Blue,"6,995","18,999",AMOLED Display,4.2,Silicone,25,34,1,,India
+huami,Smartwatch,Amazfit GTR 47,Blue,"6,995","13,999",AMOLED Display,4.3,Silicone,25,176,1,,China
+huami,Smartwatch,Amazfit Verge,Blue,"6,995","12,999",AMOLED Display,4.1,Silicone,25,489,1,,China
+huami,Smartwatch,Amazfit Verge,Blue,"6,995","12,999",AMOLED Display,4.1,Silicone,25,489,1,,China
+huami,Smartwatch,Amazfit Verge,Blue,"6,995","8,999",AMOLED Display,4.2,Silicone,14,489,1,,China
+huami,Smartwatch,Amazfit Bip,Blue,"6,995","5,990",AMOLED Display,4.2,Silicone,28,176,1,,China
+huami,Smartwatch,Amazfit Verge,Blue,"6,995","12,999",AMOLED Display,4.1,Silicone,7,176,1,,China
+huami,Smartwatch,Amazfit Bip,Purple,"6,999","6,999",AMOLED Display,4.2,Silicone,28,176,1,,China
+huami,Smartwatch,Amazfit Stratos,Purple,"6,999","15,999",AMOLED Display,4.2,Silicone,25,103,1,,China
+huami,Smartwatch,Amazfit Bip Lite,Purple,"6,999","5,499",AMOLED Display,4,Thermoplastic polyurethane,7,125,1,,Russia
+huami,Smartwatch,Amazfit Verge Lite,Purple,"7,498","8,999",AMOLED Display,4.2,Silicone,5,136,1,,Russia
+huami,Smartwatch,Amazfit Bip,Purple,"7,499","7,399",AMOLED Display,4.4,Silicone,28,176,1,,Russia
+huami,Smartwatch,Bip Lite On,Purple,"7,499","14,999",AMOLED Display,4.1,Silicone,7,183,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active 2,Purple,"7,599","25,990",AMOLED Display,4.5,Silicone,7,565,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active 2,Purple,"7,990","25,990",AMOLED Display,4.5,Silicone,7,54,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Classic 4,Purple,"7,990","37,999",AMOLED Display,4.6,Elastomer,14,3,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Classic 4,Purple,"7,999","42,999",AMOLED Display,4.6,Elastomer,14,4,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Classic 4,Purple,"7,999","37,999",AMOLED Display,4.6,Elastomer,14,334,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Classic 4 LTE,Purple,"7,999","31,999",AMOLED Display,5,Elastomer,14,45,1,,Russia
+SAMSUNG ,FitnessBand,Galaxy Fit-e Smart,Purple,"7,999","2,590",PMOLED Display,3.8,Rubber,7,45,1,,Russia
+SAMSUNG ,FitnessBand,Galaxy Fit-e Smart,Purple,"8,490","2,590",PMOLED Display,3.8,Rubber,7,65,1,,Russia
+SAMSUNG ,FitnessBand,Galaxy Fit,Purple,"8,807","9,990",AMOLED Display,4,Rubber,7,766,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Watch 3,Purple,"8,990","30,990",AMOLED Display,4.3,Leather,14,677,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Watch 4 LTE,Purple,"8,990","34,999",AMOLED Display,4.6,Elastomer,14,67,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Watch 4 Classic LTE,Purple,"8,990","42,999",AMOLED Display,4.6,Elastomer,14,55,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Watch 4 LTE,Purple,"8,990","31,999",AMOLED Display,4.6,Elastomer,14,4,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active 2,Purple,"8,995","28,490",AMOLED Display,4.1,Silicone,14,5,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy 46mm,Purple,"8,995","33,999",AMOLED Display,4.5,Elastomer,7,345,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Classic 4 LTE,Purple,"8,995","39,999",AMOLED Display,4.6,Elastomer,14,55,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active Steel 2 LTE,Purple,"8,995","34,490",AMOLED Display,4.1,Silicone,14,54,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active Steel 2,Purple,"8,995","31,990",AMOLED Display,4.3,Silicone,14,465,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Classic 4,Purple,"8,995","34,999",AMOLED Display,4.6,Silicone,14,76,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active 42mm,Purple,"8,995","19,990",AMOLED Display,4.4,Elastomer,14,55,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy 44mm,Purple,"8,995","28,490",AMOLED Display,3.6,Silicone,14,45,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy LTE,Purple,"8,995","31,999",AMOLED Display,4.6,Elastomer,14,45,1,,Russia
+SAMSUNG ,Smartwatch,Gear Fit 2,Purple,"8,995","15,000",AMOLED Display,4.2,Silicone,7,77,1,,Russia
+SAMSUNG ,Smartwatch,Gear Fit,Purple,"8,995","16,860",AMOLED Display,3.9,Silicone,7,87,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active 2 Steel,Purple,"8,995","31,990",AMOLED Display,4.4,Leather,14,87,1,,Russia
+SAMSUNG ,Smartwatch,Gear S2,Purple,"8,995","24,300",AMOLED Display,4.3,Elastomer,14,67,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active Steel,Purple,"8,995","34,490",AMOLED Display,4.1,Silicone,14,56,1,,Russia
+SAMSUNG ,Smartwatch,Gear Fit 2 Pro,Purple,"8,995","14,990",AMOLED Display,4.3,Silicone,7,56,1,,Russia
+SAMSUNG ,Smartwatch,Gear Fit 2,Purple,"8,995","15,000",AMOLED Display,4.2,Silicone,7,54,1,,Russia
+SAMSUNG ,Smartwatch,Gear 2,Purple,"8,999","22,550",AMOLED Display,2.3,Silicone,14,34,1,,Russia
+SAMSUNG ,Smartwatch,Neo Gear 2,Purple,"8,999","16,860",AMOLED Display,3.9,Rubber,7,54,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Active 46mm,Purple,"8,999","19,990",AMOLED Display,4.4,Elastomer,14,77,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Watch LTE,Purple,"9,047","29,989",AMOLED Display,4.2,Silicone,14,988,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy 42,Purple,"9,097","25,990",AMOLED Display,4.6,Elastomer,14,65,1,,Russia
+SAMSUNG ,Smartwatch,Gear Live,Purple,"9,796","15,900",AMOLED Display,4.2,Rubber,7,45,1,,Russia
+SAMSUNG ,Smartwatch,Gear Fit 2,Purple,"9,990","15,000",AMOLED Display,4.2,Silicone,7,34,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Watch 3,Purple,"9,995","39,490",AMOLED Display,4.3,Leather,14,655,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy 42,Purple,"9,995","25,990",AMOLED Display,4.6,Elastomer,14,44,1,,Russia
+SAMSUNG ,Smartwatch,Gear S3 Frontier,Purple,"9,995","28,500",AMOLED Display,4.3,Silicone,14,35,1,,Russia
+SAMSUNG ,Smartwatch,Gear Sport,Purple,"9,999","22,990",AMOLED Display,3,Silicone,7,35,1,,Russia
+SAMSUNG ,Smartwatch,Gear S2 Classic,Purple,"9,999","34,550",AMOLED Display,4.2,Leather,14,6,1,,Russia
+SAMSUNG ,Smartwatch,T-Mobile,Purple,"9,999","22,990",AMOLED Display,4.3,Leather,14,43,1,,Russia
+SAMSUNG ,Smartwatch,Gear S2,Purple,"9,999","24,300",AMOLED Display,4.1,Elastomer,14,34,1,,Russia
+SAMSUNG ,Smartwatch,R600NZBAXAR 600,Purple,"9,999","25,155",AMOLED Display,4.5,Rubber,14,65,1,,Russia
+SAMSUNG ,Smartwatch,Gear S2 Classic,Purple,"9,999","30,000",AMOLED Display,4.2,Leather,14,4,1,,Russia
+SAMSUNG ,Smartwatch,Gear R730V S2,Purple,"9,999","22,498",AMOLED Display,4.6,Elastomer,14,44,1,,Russia
+SAMSUNG ,Smartwatch,Galaxy Gear,Purple,"9,999","60,241",AMOLED Display,3.2,Rubber,14,45,1,,Russia
+SAMSUNG ,FitnessBand,Activity Tracker,Purple,"9,999","15,885",PMOLED Display,4.2,Rubber,7,46,1,,Russia
+FOSSIL ,Smartwatch,Gen 5 Carlyle HR,Purple,"10,365","22,995",AMOLED Display,4.2,Leather,2,575,1,,Russia
+FOSSIL ,Smartwatch,Gen 5 Carlyle HR,Purple,"10,496","22,995",AMOLED Display,4.2,Leather,2,54,1,,Russia
+FOSSIL ,Smartwatch,Gen 5 Garrett HR,Purple,"10,796","22,995",AMOLED Display,4.1,Stainless Steel,2,34,1,,Russia
+FOSSIL ,Smartwatch,Gen 5 Julianna HR,Purple,"10,796","18,495",AMOLED Display,3.8,Stainless Steel,2,543,1,,Russia
+FOSSIL ,Smartwatch,Gen 5 Julianna HR,Purple,"10,899","22,995",AMOLED Display,4.3,Stainless Steel,2,655,1,,Russia
+FOSSIL ,Smartwatch,Latitude Hybrid HR,Purple,"10,990","14,995",AMOLED Display,4.3,Stainless Steel,14,656,1,,Russia
+FOSSIL ,Smartwatch,Gen 5 Garrett HR,Purple,"10,990","22,995",AMOLED Display,4.1,Stainless Steel,2,43,1,,Russia
+FOSSIL ,Smartwatch,FB-01 Hybrid HR,Purple,"10,997","14,995",AMOLED Display,4,Silicone,14,7,1,,Russia
+FOSSIL ,Smartwatch,Gen 5 Julianna HR,Purple,"10,998","18,495",AMOLED Display,3.8,Stainless Steel,2,90,1,,Russia
+FOSSIL ,Smartwatch,Collider Hybrid,Purple,"10,999","16,495",AMOLED Display,4,Silicone,14,9,1,,Russia
+FOSSIL ,Smartwatch,Collider Hybrid,Purple,"10,999","14,995",AMOLED Display,4,Silicone,14,908,1,,Russia
+FOSSIL ,Smartwatch,Sadie Hybrid,Purple,"11,397","13,495",AMOLED Display,4,Stainless Steel,10,88,1,,France
+FOSSIL ,Smartwatch,FB-01 Hybrid HR,Purple,"11,596","16,495",AMOLED Display,4,Stainless Steel,14,989,1,,France
+FOSSIL ,Smartwatch,Commuter,Purple,"11,990","11,995",AMOLED Display,4.3,Leather,14,898,1,,France
+FOSSIL ,Smartwatch,Latitude Hybrid HR,Grey,"11,990","16,495",AMOLED Display,4.3,Stainless Steel,14,77,1,,France
+FOSSIL ,Smartwatch,Sport,Grey,"11,990","17,995",AMOLED Display,3.9,Silicone,2,877,1,,France
+FOSSIL ,Smartwatch,Charter Hybrid HR,Grey,"11,995","16,495",AMOLED Display,3.9,Leather,12,8,1,,France
+FOSSIL ,Smartwatch,Carlie Hybrid,Grey,"11,995","13,495",AMOLED Display,4.6,Stainless Steel,12,67,1,,France
+FOSSIL ,Smartwatch,Carlie,Grey,"11,995","11,995",AMOLED Display,4.8,Leather,10,678,1,,France
+FOSSIL ,Smartwatch,Neutra Hybrid,Grey,"11,995","13,495",AMOLED Display,5,Stainless Steel,12,23,1,,France
+FOSSIL ,Smartwatch,Q Venture,Grey,"11,995","21,995",AMOLED Display,3.8,Leather,1,54,1,,France
+FOSSIL ,Smartwatch,Jacqueline,Grey,"11,995","13,495",AMOLED Display,4.6,Leather,1,23,1,,France
+FOSSIL ,Smartwatch,Q Neely,Grey,"11,995","12,995",AMOLED Display,4.6,Leather,2,45,1,,UK
+FOSSIL ,Smartwatch,FTW5018 Hybrid,Grey,"11,995","14,495",AMOLED Display,4.5,Stainless Steel,2,354,1,,UK
+FOSSIL ,Smartwatch,FTW5012 Hybrid,Grey,"11,995","12,995",AMOLED Display,4.6,Leather,2,634,1,,UK
+FOSSIL ,Smartwatch,Jacqueline Hybrid,Grey,"11,997","13,495",AMOLED Display,4,Leather,12,23,1,,UK
+FOSSIL ,Smartwatch,Q Annette,Grey,"11,999","13,495",AMOLED Display,4.6,Leather,1,43,1,,UK
+FOSSIL ,Smartwatch,Gen 5 Julianna HR,Grey,"11,999","22,995",AMOLED Display,4.3,Stainless Steel,2,534,1,,UK
+FOSSIL ,Smartwatch,FTW6007,Grey,"11,999","19,995",AMOLED Display,4.1,Leather,2,234,1,,UK
+FOSSIL ,Smartwatch,Gen 5E,Grey,"11,999","18,495",AMOLED Display,3.8,Stainless Steel,1,565,1,,UK
+FOSSIL ,Smartwatch,Neutra Hybrid,Grey,"11,999","11,995",AMOLED Display,5,Leather,12,454,1,,France
+FOSSIL ,Smartwatch,Gen 5 Julianna HR,Grey,"12,150","22,995",AMOLED Display,4.3,Stainless Steel,2,34,1,,France
+FOSSIL ,Smartwatch,FTW1151 Hybrid,Grey,"12,349","11,995",AMOLED Display,4.3,Leather,2,65,1,,France
+FOSSIL ,Smartwatch,Barstow Hybrid,Grey,"12,396","11,995",AMOLED Display,4.6,Leather,12,34,1,,France
+FOSSIL ,Smartwatch,Wander RG,Grey,"12,396","18,995",AMOLED Display,4,Silicone,5,667,1,,France
+FOSSIL ,Smartwatch,Charter Hybrid HR,Grey,"12,396","16,495",AMOLED Display,3.9,Leather,12,87,1,,France
+FOSSIL ,Smartwatch,Q Wander,Grey,"12,499","19,995",AMOLED Display,4,Stainless Steel,1,766,1,,France
+FOSSIL ,Smartwatch,Q Founder,Grey,"12,990","19,995",AMOLED Display,4.2,Stainless Steel,1,565,1,,France
+FOSSIL ,Smartwatch,Garrett Hybrid,Grey,"12,990","11,995",AMOLED Display,3.7,Stainless Steel,12,232,1,,France
+FOSSIL ,Smartwatch,Q Explorist,Grey,"12,995","19,995",AMOLED Display,4.4,Leather,2,324,1,,France
+FOSSIL ,Smartwatch,Marshall,Grey,"12,999","18,995",AMOLED Display,4,Stainless Steel,1,34,1,,France
+FOSSIL ,Smartwatch,Gen 3 Q Venture,Grey,"12,999","21,995",AMOLED Display,4.3,Stainless Steel,1,7,1,,France
+FOSSIL ,Smartwatch,FTW4003,Grey,"12,999","19,995",AMOLED Display,3.1,Leather,2,234,1,,France
+FOSSIL ,Smartwatch,Gen 5E,Grey,"12,999","18,495",AMOLED Display,4.6,Stainless Steel,1,433,1,,France
+FOSSIL ,Smartwatch,Sport 43,Grey,"12,999","17,995",AMOLED Display,4,Silicone,2,434,1,,France
+FOSSIL ,Smartwatch,The Carlyle HR,Grey,"13,195","25,995",AMOLED Display,4.2,Leather,14,232,1,,France
+FOSSIL ,Smartwatch,Garrett HR,Grey,"13,196","22,995",AMOLED Display,4.1,Stainless Steel,14,232,1,,France
+FOSSIL ,Smartwatch,4th Gen Explorist HR,Grey,"13,196","21,995",AMOLED Display,3.9,Stainless Steel,2,600,1,,France
+FOSSIL ,Smartwatch,Sport,Grey,"13,201","17,995",AMOLED Display,4.6,Silicone,2,322,1,,France
+FOSSIL ,Smartwatch,FTW6001,Grey,"13,495","21,995",AMOLED Display,4.2,Stainless Steel,2,22,1,,France
+FOSSIL ,Smartwatch,Q Founder 2.0,Grey,"13,495","19,995",AMOLED Display,4.2,Stainless Steel,1,61,1,,France
+FOSSIL ,Smartwatch,Cameron Hybrid,Grey,"13,495","13,495",AMOLED Display,4.6,Stainless Steel,12,23,1,,France
+FOSSIL ,Smartwatch,Gen 3 Q Explorist,Grey,"13,495","19,995",AMOLED Display,4.1,Stainless Steel,2,32,1,,France
+FOSSIL ,Smartwatch,4th Gen Venture HR,Grey,"13,495","21,995",AMOLED Display,3.9,Stainless Steel,14,46,1,,France
+FOSSIL ,Smartwatch,FTW6005,Grey,"13,495","19,995",AMOLED Display,3.8,Stainless Steel,2,232,1,,France
+FOSSIL ,Smartwatch,Marshall,Grey,"13,499","19,995",AMOLED Display,4.1,Stainless Steel,1,121,1,,France
+FOSSIL ,Smartwatch,Garrett Hybrid,Grey,"13,578","11,995",AMOLED Display,3.7,Leather,12,21,1,,France
+FOSSIL ,Smartwatch,4th Gen Venture HR,Grey,"13,990","21,995",AMOLED Display,3.9,Stainless Steel,14,23,1,,France
+FOSSIL ,Smartwatch,Marshall,Grey,"13,995","19,995",AMOLED Display,4.1,Stainless Steel,1,1,1,,France
+FOSSIL ,Smartwatch,FTW1161 Hybrid,Grey,"13,999","14,495",AMOLED Display,4.3,Stainless Steel,2,1,1,,France
+FOSSIL ,Smartwatch,FTW1142 Q Hybrid,Grey,"13,999","13,995",AMOLED Display,3.7,Stainless Steel,2,1,1,,France
+FOSSIL ,Smartwatch,Jacqueline Hybrid,Grey,"13,999","13,495",AMOLED Display,4,Leather,12,1,1,,France
+FOSSIL ,Smartwatch,Gen 3 Q Explorist,Grey,"14,021","15,034",AMOLED Display,4.3,Stainless Steel,2,1,1,,France
+FOSSIL ,Smartwatch,Gen 5 Julianna HR,Grey,"14,021","22,995",AMOLED Display,4.3,Stainless Steel,2,1,1,,France
+FOSSIL ,Smartwatch,Cameron Hybrid Smartwatch,Grey,"14,399","13,495",AMOLED Display,4.6,Leather,12,1,1,,France
+FOSSIL ,Smartwatch,Gen 3 Q Venture,Grey,"14,495","19,995",AMOLED Display,4.3,Stainless Steel,1,1,1,,France
+FOSSIL ,Smartwatch,Jacqueline Hybrid,Grey,"14,990","11,995",AMOLED Display,4.6,Leather,12,322,1,,France
+FOSSIL ,Smartwatch,Q Annette,Grey,"14,990","11,995",AMOLED Display,4.6,Silicone,1,32,1,,France
+FOSSIL ,Smartwatch,Sport 43,Grey,"14,990","17,995",AMOLED Display,4,Silicone,2,232,1,,France
+FOSSIL ,Smartwatch,Sport 41,Grey,"14,990","17,995",AMOLED Display,4,Silicone,2,121,1,,France
+FOSSIL ,Smartwatch,Gen 3 Q Explorist,Grey,"14,990","21,995",AMOLED Display,4.4,Stainless Steel,2,231,1,,France
+FOSSIL ,Smartwatch,Marshall,Grey,"14,990","18,995",AMOLED Display,4,Stainless Steel,1,34,1,,France
+FOSSIL ,Smartwatch,Q Jacqueline,Grey,"14,990","13,495",AMOLED Display,4.4,Silicone,1,56,1,,France
+FOSSIL ,Smartwatch,Garrett,Grey,"14,995","11,995",AMOLED Display,3.7,Leather,1,687,1,,France
+FOSSIL ,Smartwatch,Machine Hybrid,Grey,"14,995","11,995",AMOLED Display,4.6,Stainless Steel,12,765,1,,France
+FOSSIL ,Smartwatch,Sloan HR,Grey,"14,995","24,495",AMOLED Display,4.1,Silicone,14,76,1,,France
+FOSSIL ,Smartwatch,Sloan HR,Grey,"14,995","21,995",AMOLED Display,4.1,Silicone,14,66,1,,France
+FOSSIL ,Smartwatch,Garrett Hybrid,Grey,"14,995","14,995",AMOLED Display,3.7,Stainless Steel,12,87,1,,France
+FOSSIL ,Smartwatch,4th Gen Venture HR,Grey,"14,999","21,995",AMOLED Display,3.9,Stainless Steel,14,88,1,,France
+FOSSIL ,Smartwatch,Gen 3 Q Explorist,Grey,"14,999","19,995",AMOLED Display,4.2,Stainless Steel,2,76,1,,France
+FOSSIL ,Smartwatch,Charter Hybrid HR,Grey,"14,999","14,995",AMOLED Display,3.9,Leather,12,45,1,,France
+FOSSIL ,Smartwatch,Q Wander,Grey,"14,999","19,995",AMOLED Display,4.1,Stainless Steel,1,354,1,,France
+FOSSIL ,Smartwatch,Neely,Grey,"14,999","13,495",AMOLED Display,4.7,Leather,1,45,1,,France
+FOSSIL ,Smartwatch,Rose Gold Smart,Grey,"14,999","21,995",AMOLED Display,4.6,Stainless Steel,3,454,1,,France
+FOSSIL ,Smartwatch,Q Founder 2.0,Grey,"15,000","18,995",AMOLED Display,4.1,Stainless Steel,1,34,1,,France
+FOSSIL ,Smartwatch,FTW1159 Hybrid,Grey,"15,000","12,995",AMOLED Display,5,Stainless Steel,2,565,1,,France
+FOSSIL ,Smartwatch,Q Wander,Grey,"15,000","18,995",AMOLED Display,4,Stainless Steel,1,867,1,,France
+FOSSIL ,Smartwatch,FTW4010 Gold HR,Grey,"15,034","15,995",AMOLED Display,4.8,Stainless Steel,6,87,1,,France
+FOSSIL ,Smartwatch,FTW6009 Black HR,Grey,"15,396","13,995",AMOLED Display,4.1,Leather,14,34,1,,France
+FOSSIL ,Smartwatch,Eleanor Hybrid,Grey,"15,499","11,995",AMOLED Display,4.6,Stainless Steel,12,34,1,,France
+FOSSIL ,Smartwatch,FTW1146 Q Hybrid,Grey,"15,500","11,995",AMOLED Display,4.6,Leather,2,34,1,,France
+FOSSIL ,Smartwatch,Jacqueline Hybrid,Grey,"15,749","11,995",AMOLED Display,4.6,Leather,12,45,1,,France
+FOSSIL ,Smartwatch,FTW20013 Q,Grey,"15,900","21,495",AMOLED Display,4.6,Leather,2,34,1,,France
+FOSSIL ,Smartwatch,FTW5016 Hybrid,Grey,"15,911","14,495",AMOLED Display,4.6,Stainless Steel,2,23,1,,France
+FOSSIL ,Smartwatch,FTW5017 Hybrid,Grey,"15,990","14,495",AMOLED Display,4.6,Stainless Steel,2,344,1,,France
+FOSSIL ,Smartwatch,FTW1141 Q Hybrid,Grey,"15,990","11,995",AMOLED Display,4.6,Stainless Steel,2,23,1,,France
+FOSSIL ,Smartwatch,Sport,Grey,"15,990","17,995",AMOLED Display,4.6,Silicone,2,222,1,,France
+FOSSIL ,Smartwatch,FTW5003 Hybrid,Grey,"15,990","12,995",AMOLED Display,4.6,Stainless Steel,2,23,1,,France
+FOSSIL ,Smartwatch,Jacqueline Hybrid,Grey,"15,995","13,495",AMOLED Display,4.6,Leather,12,1,1,,France
+FOSSIL ,Smartwatch,Commuter Hybrid,Grey,"15,995","11,995",AMOLED Display,4.6,Leather,12,2,1,,France
+FOSSIL ,Smartwatch,Q MACHINE,Grey,"15,995","6,995",AMOLED Display,4.6,Stainless Steel,1,3,1,,France
+FOSSIL ,Smartwatch,FB-01 Hybrid,Grey,"15,995","13,495",AMOLED Display,3.9,Silicone,14,4,1,,France
+FOSSIL ,Smartwatch,Q Jacqueline,Grey,"15,995","13,495",AMOLED Display,4.4,Silicone,1,5,1,,France
+FOSSIL ,Smartwatch,Q GRANT,Grey,"15,995","6,995",AMOLED Display,4.6,Stainless Steel,7,6,1,,France
+FOSSIL ,Smartwatch,FTW2114 Q,Grey,"15,995","18,995",AMOLED Display,4.6,Stainless Steel,2,7,1,,France
+FOSSIL ,Smartwatch,FTW1140 Q Hybrid,Grey,"15,995","13,995",AMOLED Display,3.8,Stainless Steel,2,7,1,,France
+FOSSIL ,Smartwatch,Garrett HR,Grey,"15,995","22,995",AMOLED Display,4.1,Leather,14,8,1,,France
+FOSSIL ,Smartwatch,FTW1134 Q Hybrid,Grey,"15,995","11,995",AMOLED Display,4.6,Stainless Steel,2,9,1,,France
+FOSSIL ,Smartwatch,Carlie Hybrid,Grey,"15,995","11,995",AMOLED Display,4.6,Stainless Steel,12,7,1,,France
+FOSSIL ,Smartwatch,Q Control,Grey,"15,999","15,995",AMOLED Display,4.3,Silicone,1,6,1,,France
+FOSSIL ,Smartwatch,Q Control,Grey,"15,999","15,995",AMOLED Display,4.3,Silicone,1,5,1,,France
+FOSSIL ,Smartwatch,FTW1144 Q Hybrid,Grey,"16,124","13,995",AMOLED Display,4.6,Leather,2,4,1,,France
+FOSSIL ,Smartwatch,Rose Gold HR,Grey,"16,495","21,995",AMOLED Display,2.8,Stainless Steel,3,3,1,,France
+FOSSIL ,Smartwatch,5th Gen Julianna,Grey,"16,900","22,995",AMOLED Display,4.6,Stainless Steel,1,5,1,,France
+FOSSIL ,Smartwatch,Q Venture,Grey,"16,990","21,995",AMOLED Display,3.8,Leather,1,34,1,,France
+FOSSIL ,Smartwatch,Q Machine,Grey,"16,990","13,495",AMOLED Display,4.6,Stainless Steel,1,34,1,,France
+FOSSIL ,Smartwatch,FTW1145 Q Hybrid,Grey,"16,990","13,995",AMOLED Display,4.6,Leather,2,35,1,,France
+FOSSIL ,Smartwatch,FTW5011 Hybrid,Grey,"16,990","14,495",AMOLED Display,4.8,Leather,2,45,1,,France
+FOSSIL ,Smartwatch,FTW2120SET Q,Grey,"16,990","23,995",AMOLED Display,4.6,Leather,2,34,1,,France
+FOSSIL ,Smartwatch,FTW1136 Q Hybrid,Grey,"16,990","11,995",AMOLED Display,4.6,Leather,2,23,1,,France
+FOSSIL ,Smartwatch,Q Venture,Grey,"16,990","15,995",AMOLED Display,4.6,Leather,1,43,1,,France
+FOSSIL ,Smartwatch,FTW2115 Q Watch,Red,"16,999","18,995",AMOLED Display,4.6,Stainless Steel,2,54,1,,France
+FOSSIL ,Smartwatch,FTW6010 Pink HR,Red,"16,999","15,995",AMOLED Display,4.4,Stainless Steel,14,65,1,,India
+FOSSIL ,Smartwatch,Q ACTIVIST,Red,"17,596","6,995",AMOLED Display,3,leather,1,76,1,,India
+FOSSIL ,Smartwatch,Carlie Hybrid,Red,"17,895","13,495",AMOLED Display,4.6,Stainless Steel,12,87,1,,India
+FOSSIL ,Smartwatch,FTW1154 Hybrid,Red,"17,990","12,995",AMOLED Display,4.3,Stainless Steel,2,87,1,,India
+FOSSIL ,Smartwatch,FTW5015 Hybrid,Red,"17,995","14,495",AMOLED Display,3,Stainless Steel,2,54,1,,India
+FOSSIL ,Smartwatch,Sport,Red,"17,995","17,995",AMOLED Display,4.6,Silicone,2,546,1,,India
+FOSSIL ,Smartwatch,Sloan HR,Red,"17,995","21,995",AMOLED Display,4.1,Silicone,14,54,1,,India
+FOSSIL ,Smartwatch,Q GRANT,Red,"17,995","6,995",AMOLED Display,4.6,Stainless Steel,7,343,1,,India
+FOSSIL ,Smartwatch,Sport 41,Red,"17,995","17,995",AMOLED Display,4,Silicone,2,345,1,,India
+FOSSIL ,Smartwatch,FTW6006 Gold HR,Red,"17,999","21,995",AMOLED Display,3.7,Stainless Steel,6,456,1,,India
+APPLE,Smartwatch,Series 3 GPS - 42 mm Space Grey Aluminium Case,Red,"17,999","23,900",OLED Retina Display,4.6,Aluminium,1,343,1,,India
+APPLE,Smartwatch,SE 44 mm Space Grey Aluminium Case,Red,"17,999","32,900",OLED Retina Display,4.7,Aluminium,1,232,1,,India
+APPLE,Smartwatch,Series 3 GPS - 38 mm Space Grey Aluminium Case,Red,"17,999","20,900",OLED Retina Display,4.6,Aluminium,1,222,1,,France
+APPLE,Smartwatch,SE GPS + Cellular 44 mm Aluminium Case,Red,"18,495","36,900",OLED Retina Display,4.6,Aluminium,1,45,1,,France
+APPLE,Smartwatch,SE GPS + Cellular 40 mm Space Grey Aluminium Case,Red,"18,495","33,900",OLED Retina Display,4.6,Aluminium,1,45,1,,France
+APPLE,Smartwatch,SE 40 mm Space Grey Aluminium Case,Red,"18,495","29,900",OLED Retina Display,4.7,Aluminium,1,34,1,,France
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Red Aluminium Case,Red,"18,495","49,900",OLED Retina Display,4.5,Aluminium,1,23,1,,France
+APPLE,Smartwatch,SE 44 mm Gold Aluminium Case,Red,"18,495","32,900",OLED Retina Display,4.7,Aluminium,1,23,1,,France
+APPLE,Smartwatch,SE GPS + Cellular 40 mm Gold Aluminium Case,Red,"18,532","33,900",OLED Retina Display,4.6,Aluminium,1,45,1,,France
+APPLE,Smartwatch,SE GPS + Cellular 40 mm Aluminium Case,Red,"18,900","33,900",OLED Retina Display,4.6,Aluminium,1,56,1,,France
+APPLE,Smartwatch,Series 6 GPS 40 mm Silver Aluminium Case,Red,"18,990","40,900",OLED Retina Display,4.5,Aluminium,1,76,1,,France
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Blue Aluminium Case,Red,"18,990","49,900",OLED Retina Display,4.5,Aluminium,1,45,1,,France
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Graphite Stainless Steel Case,Red,"18,990","73,900",OLED Retina Display,4.5,Stainless Steel,1,34,1,,France
+APPLE,Smartwatch,Series 6 GPS 44 mm Red Aluminium Case,Red,"18,990","43,900",OLED Retina Display,4.5,Aluminium,1,23,1,,UK
+APPLE,Smartwatch,SE GPS 44 mm Aluminium Case,Red,"18,990","32,900",OLED Retina Display,4.7,Aluminium,1,23,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Space Grey Aluminium Case,Red,"18,995","49,900",OLED Retina Display,4.5,Aluminium,1,34,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Space Grey Aluminium Case,Red,"18,995","69,900",OLED Retina Display,4.2,Aluminium,1,45,1,,UK
+APPLE,Smartwatch,Series 5 GPS + Cellular 40 mm Space Black Stainless Steel Case,Red,"18,995","69,900",OLED Retina Display,4.6,Stainless Steel,1,45,1,,UK
+APPLE,Smartwatch,Series 5 GPS + Cellular 44 mm Gold Stainless Steel Case,Red,"18,995","73,900",OLED Retina Display,4.2,Stainless Steel,1,56,1,,UK
+APPLE,Smartwatch,Series 6 GPS 44 mm Blue Aluminium Case,Red,"18,995","43,900",OLED Retina Display,4.5,Aluminium,1,67,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 44 mm Silver Aluminium Case,Red,"18,995","52,900",OLED Retina Display,4.5,Aluminium,1,56,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Gold Aluminium Case,Red,"18,999","49,900",OLED Retina Display,4.5,Aluminium,1,34,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Gold Stainless Steel Case,Red,"18,999","69,900",OLED Retina Display,4.5,Stainless Steel,1,34,1,,UK
+APPLE,Smartwatch,Series 5 GPS + Cellular 40 mm Stainless Steel Case,Red,"18,999","65,900",OLED Retina Display,3.4,Stainless Steel,1,34,1,,UK
+APPLE,Smartwatch,Series 5 GPS + Cellular 44 mm Gold Aluminium Case,Red,"19,144","52,900",OLED Retina Display,4.7,Aluminium,1,34,1,,UK
+APPLE,Smartwatch,Series 5 GPS + Cellular 44 mm Space Grey Aluminium Case,Red,"19,990","52,900",OLED Retina Display,4.7,Aluminium,1,54,1,,UK
+APPLE,Smartwatch,Series 2 - 38 mm Stainless Steel Case,Red,"19,990","56,900",OLED Retina Display,4.6,Stainless Steel,1,56,1,,UK
+APPLE,Smartwatch,Series 2 - 42 mm Stainless Steel Case,Red,"19,990","50,400",OLED Retina Display,4.7,Stainless Steel,1,56,1,,UK
+APPLE,Smartwatch,Series 2 - 42 mm Space Black Stainless Steel Case,Red,"19,990","50,400",OLED Retina Display,4.7,Stainless Steel,1,67,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Red Aluminium Case,Red,"19,990","49,900",OLED Retina Display,4.5,Aluminium,1,5,1,,UK
+APPLE,Smartwatch,Series 5 GPS + Cellular 40 mm Space Grey Aluminium Case,Red,"19,990","49,900",OLED Retina Display,4.5,Aluminium,1,45,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Silver Aluminium Case,Red,"19,990","49,900",OLED Retina Display,4.5,Aluminium,1,23,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 40 mm Gold Stainless Steel Case,Red,"19,990","73,900",OLED Retina Display,4.5,Stainless Steel,1,23,1,,UK
+APPLE,Smartwatch,SE GPS 40 mm Aluminium Case,Red,"19,990","29,900",OLED Retina Display,4.7,Aluminium,1,232,1,,UK
+APPLE,Smartwatch,Series 5 GPS + Cellular 44 mm Stainless Steel Case,Red,"19,990","73,900",OLED Retina Display,4.2,Stainless Steel,1,434,1,,UK
+APPLE,Smartwatch,Series 5 GPS + Cellular 44 mm Gold Stainless Steel Case,Red,"19,990","69,900",OLED Retina Display,4.2,Stainless Steel,1,55,1,,UK
+APPLE,Smartwatch,Series 5 GPS 40 mm Silver Aluminium Case,Red,"19,990","40,900",OLED Retina Display,4.7,Aluminium,1,5,1,,UK
+APPLE,Smartwatch,Series 6 GPS 44 mm Blue Aluminium Case,Red,"19,995","43,900",OLED Retina Display,4.5,Aluminium,1,4,1,,UK
+APPLE,Smartwatch,Series 7 GPS 45 mm,Red,"19,995","44,900",OLED Retina Display,5,Silicone,1,5,1,,UK
+APPLE,Smartwatch,SE GPS + Cellular 44 mm Space Grey Aluminium Case,Red,"19,995","36,900",OLED Retina Display,4.6,Aluminium,1,4,1,,UK
+APPLE,Smartwatch,SE GPS + Cellular 40 mm Space Grey Aluminium Case,Red,"19,995","33,900",OLED Retina Display,4.6,Aluminium,1,54,1,,UK
+APPLE,Smartwatch,Series 6 GPS + Cellular 44 mm Space Grey Aluminium Case,Red,"19,995","52,900",OLED Retina Display,4.5,Aluminium,1,5,1,,UK
+APPLE,Smartwatch,Series 7 GPS + Cellular 41 mm Aluminium,Red,"19,995","50,900",OLED Retina Display,4.6,Aluminium,1,4,1,,UK
+APPLE,Smartwatch,"Series 7 GPS + Cellular, 45 mm Aluminium",Red,"19,995","53,900",OLED Retina Display,4.6,Aluminium,1,5,1,,UK
+APPLE,Smartwatch,SE GPS + Cellular 40 mm Silver Aluminium Case,Red,"19,995","33,900",OLED Retina Display,4.6,Aluminium,1,4,1,,UK
+APPLE,Smartwatch,Series 6 GPS 40 mm Blue Aluminium Case,Red,"19,995","40,900",OLED Retina Display,4.5,Aluminium,1,5,1,,UK
+APPLE,Smartwatch,SE GPS + Cellular 40 mm Silver Aluminium Case,Red,"19,995","33,900",OLED Retina Display,4.6,Aluminium,1,4,1,,UK
+APPLE,Smartwatch,Series 6 GPS 40 mm Gold Aluminium Case,Red,"19,999","40,900",OLED Retina Display,4.5,Aluminium,1,5,1,,Singapore
+APPLE,Smartwatch,SE GPS + Cellular 44 mm Space Grey Aluminium Case,Red,"19,999","36,900",OLED Retina Display,4.6,Aluminium,1,4,1,,Singapore
+APPLE,Smartwatch,SE GPS + Cellular 40 mm Gold Aluminium Case,Red,"19,999","33,900",OLED Retina Display,4.6,Aluminium,1,54,1,,Singapore
+APPLE,Smartwatch,Series 6 GPS + Cellular 44 mm Red Aluminium Case,Red,"20,590","52,900",OLED Retina Display,4.5,Aluminium,1,5,1,,Singapore
+APPLE,Smartwatch,Series 6 GPS 40 mm Space Grey Aluminium Case,Red,"20,990","40,900",OLED Retina Display,4.5,Aluminium,1,4,1,,Singapore
+APPLE,Smartwatch,Series 6 GPS + Cellular 44 mm Silver Stainless Steel Case,Red,"20,990","77,900",OLED Retina Display,4.5,Stainless Steel,1,54,1,,Singapore
+APPLE,Smartwatch,Nike Series 5 GPS + Cellular 44 mm,Red,"20,990","52,900",OLED Retina Display,4.7,Silicone,1,5,1,,Nepal
+APPLE,Smartwatch,Series 6 GPS + Cellular 44 mm Blue Aluminium Case,Red,"20,990","52,900",OLED Retina Display,4.5,Aluminium,1,423,1,,Nepal
+APPLE,Smartwatch,SE GPS + Cellular 40 mm Gold Aluminium Case,Red,"20,990","73,900",OLED Retina Display,4.5,Aluminium,1,45,1,,Nepal
+APPLE,Smartwatch,SE GPS + Cellular 44 mm Gold Aluminium Case,Red,"20,990","36,900",OLED Retina Display,4.6,Aluminium,1,34,1,,Nepal
+APPLE,Smartwatch,SE GPS + Cellular 44 mm Silver Aluminium Case,Red,"21,390","36,900",OLED Retina Display,4.6,Aluminium,1,45,1,,Nepal
+APPLE,Smartwatch,Series 6 GPS 44 mm Space Grey Aluminium Case,Red,"21,495","43,900",OLED Retina Display,4.5,Aluminium,1,56,1,,Nepal
+APPLE,Smartwatch,SE GPS + Cellular 44 mm Silver Aluminium Case,Red,"21,499","36,900",OLED Retina Display,4.6,Aluminium,1,67,1,,Nepal
+APPLE,Smartwatch,Series 6 GPS 44 mm Silver Aluminium Case,Red,"21,499","43,900",OLED Retina Display,4.5,Aluminium,1,56,1,,Nepal
+APPLE,Smartwatch,Series 6 GPS + Cellular 44 mm Graphite Stainless Steel Case,Red,"21,900","73,900",OLED Retina Display,4.5,Stainless Steel,1,45,1,,Nepal
+APPLE,Smartwatch,SE GPS + Cellular 44 mm Gold Aluminium Case,Red,"21,989","36,900",OLED Retina Display,4.6,Aluminium,1,45,1,,Nepal
+APPLE,Smartwatch,SE GPS + Cellular 44 mm Gold Aluminium Case,Red,"21,990","43,900",OLED Retina Display,4.5,Aluminium,1,343,1,,Nepal
+APPLE,Smartwatch,Series 5 GPS + Cellular 44 mm Space Black Stainless Steel Case,Red,"21,990","69,900",OLED Retina Display,4.2,Stainless Steel,1,232,1,,Nepal
+APPLE,Smartwatch,42 mm White Ceramic Case with Cloud Sport,Red,"21,995","1,14,900",OLED Retina Display,4.7,Nylon,1,54,1,,Nepal
+APPLE,Smartwatch,Series 7 GPS 41 mm Aluminium Case,Red,"21,995","41,900",OLED Retina Display,5,Aluminium,1,3,1,,Nepal
+APPLE,Smartwatch,38 mm Space Black Stainless Steel Case,Red,"21,995","48,900",OLED Retina Display,4.6,Stainless Steel,1,454,1,,Nepal
+APPLE,Smartwatch,"Series 7 GPS + Cellular, 45 mm Stainless Steel",Red,"21,995","77,900",OLED Retina Display,4.6,Stainless Steel,1,76,1,,Nepal
+APPLE,Smartwatch,Sport 42 mm Space Grey Aluminium Case,Red,"21,995","29,900",OLED Retina Display,4.6,Aluminium,1,87,1,,Nepal
+APPLE,Smartwatch,"Series 7 GPS + Cellular, 45 mm Stainless Steel",Red,"21,995","73,900",OLED Retina Display,4.6,Stainless Steel,1,67,1,,Nepal
+APPLE,Smartwatch,8 mm Stainless Steel Case,Red,"21,995","56,900",OLED Retina Display,4.6,Stainless Steel,1,5,1,,Nepal
+APPLE,Smartwatch,"Series 7 GPS + Cellular, 41 mm Stainless Steel",Red,"21,999","73,900",OLED Retina Display,4.6,Stainless Steel,1,56,1,,Nepal
+APPLE,Smartwatch,42 mm Black Stainless Steel Case with Link Bracelet,Red,"22,499","79,900",OLED Retina Display,4.6,Stainless Steel,1,454,1,,Nepal
+APPLE,Smartwatch,42 mm Space Gray Aluminium,Red,"22,990","29,900",OLED Retina Display,4.5,Aluminium,1,45,1,,Nepal
+APPLE,Smartwatch,Series 1 - 38 mm Silver Aluminium Case,Red,"22,990","21,900",OLED Retina Display,4.6,Aluminium,1,7,1,,Nepal
+APPLE,Smartwatch,Series 3 GPS + Cellular- 42 mm Gray Ceramic Case,Red,"22,990","1,22,090",OLED Retina Display,4.6,Nylon,1,45,1,,Nepal
+APPLE,Smartwatch,42 mm Stainless Steel Case,Red,"22,990","60,900",OLED Retina Display,4.5,Stainless Steel,1,45,1,,Nepal
+APPLE,Smartwatch,Series 1 - 42 mm Gold Aluminium Case,Red,"22,990","25,900",OLED Retina Display,4.6,Aluminium,1,7,1,,Nepal
+APPLE,Smartwatch,2 - 42 mm Silver Aluminium Case,Red,"22,999","34,900",OLED Retina Display,4.7,Aluminium,1,7,1,,Nepal
+APPLE,Smartwatch,Nike+ GPS - 42 mm Space Gray Aluminium Case,Red,"23,490","32,380",OLED Retina Display,4.6,Aluminium,1,7,1,,Sri Lanka
+APPLE,Smartwatch,Series 3 GPS + Cellular- 42 mm White Ceramic Case,Red,"23,990","1,22,090",OLED Retina Display,4.6,Nylon,1,7,1,,Sri Lanka
+APPLE,Smartwatch,38 mm Stainless Steel Stainless Steel Case with Modern Buckle,Red,"23,995","64,900",OLED Retina Display,4.3,Stainless Steel,1,7,1,,Sri Lanka
+APPLE,Smartwatch,8 mm Stainless Steel Case,Red,"24,300","56,900",OLED Retina Display,4.3,Stainless Steel,1,76,1,,Sri Lanka
+APPLE,Smartwatch,series 2 - 38 mm Stainless Steel Case,Red,"24,300","64,900",OLED Retina Display,4.6,Stainless Steel,1,56,1,,Sri Lanka
+APPLE,Smartwatch,Nike+ - 38 mm Space Gray Aluminium Case,Red,"24,490","31,600",OLED Retina Display,4.5,Aluminium,1,4,1,,Sri Lanka
+GARMIN ,Smartwatch,Venu Sq - Music Edition,Red,"24,490","25,990",AMOLED Display,4.3,Silicone,7,76,1,,Sri Lanka
+GARMIN ,Smartwatch,Venu Sq,Red,"24,490","20,990",AMOLED Display,4.2,Silicone,7,778,1,,Sri Lanka
+GARMIN ,Smartwatch,Garmin Instinct Tactical,Red,"24,495","31,490",AMOLED Display,4.7,Silicone,7,65,1,,Sri Lanka
+GARMIN ,Smartwatch,Venu,Red,"24,989","39,990",AMOLED Display,4,Silicone,7,90,1,,Sri Lanka
+GARMIN ,Smartwatch,Forerunner 45,Red,"24,990","20,990",OLED Display,4.4,Silicone,7,90,1,,Sri Lanka
+GARMIN ,Smartwatch,Venu 2,Red,"24,990","41,990",AMOLED Display,4.7,Leather,14,98,1,,Sri Lanka
+GARMIN ,Smartwatch,Vivosmart 4,Red,"24,990","13,490",OLED Display,3.9,Silicone,5,697,1,,Japan
+GARMIN ,Smartwatch,Garmin Instinct HR,Red,"24,990","41,490",AMOLED Display,4.1,Silicone,14,98,1,,Japan
+GARMIN ,Smartwatch,Approach S62,Red,"24,990","51,990",OLED Display,4.1,Silicone,12,986,1,,Japan
+GARMIN ,Smartwatch,Venu 2S,Red,"25,249","37,990",AMOLED Display,4.2,Silicone,14,45,1,,Japan
+GARMIN ,Smartwatch,Forerunner 245 Music,Red,"25,900","36,490",LED Display,4.2,Silicone,7,45,1,,Japan
+GARMIN ,Smartwatch,Garmin Instinct HR,Red,"25,995","28,490",AMOLED Display,3.7,Silicone,7,45,1,,Japan
+GARMIN ,Smartwatch,Instinct,Red,"25,999","28,490",LED Display,4.4,Silicone,7,76,1,,Japan
+GARMIN ,Smartwatch,Forerunner 245,Red,"26,499","31,490",LCD Display,4.6,Silicone,7,879,1,,Japan
+GARMIN ,Smartwatch,Vivomove Style,Red,"26,990","31,490",AMOLED Display,3.3,Nylon,14,89,1,,Japan
+GARMIN ,Smartwatch,Fenix 6 Pro Solar,Red,"26,990","88,490",AMOLED Display,,Nylon,45,89,1,,Japan
+GARMIN ,Smartwatch,Fenix 6X,Red,"27,400","88,490",AMOLED Display,,Nylon,45,89,1,,Japan
+GARMIN ,Smartwatch,FORERUNNER 745 Magma Red,Red,"27,490","51,990",AMOLED Display,,Silicone,14,986,1,,Japan
+GARMIN ,Smartwatch,Fenix 6,Red,"27,990","86,690",LED Display,,Nylon,30,67,1,,Japan
+GARMIN ,Smartwatch,Lily,Red,"27,990","20,990",AMOLED Display,3.3,Silicone,7,87,1,,Japan
+GARMIN ,Smartwatch,Approach S12,Red,"28,990","20,990",OLED Display,4,Silicone,12,87,1,,Japan
+GARMIN ,Smartwatch,Instinct,Red,"28,990","28,490",AMOLED Display,5,Silicone,7,78,1,,Japan
+GARMIN ,Smartwatch,Vivomove 3,Red,"28,990","25,990",OLED Display,,Silicone,7,78,1,,Japan
+GARMIN ,Smartwatch,Fenix 6X Solar,Red,"28,990","1,19,490",AMOLED Display,,Leather,45,67,1,,Japan
+GARMIN ,Smartwatch,Fenix 6,Red,"28,999","86,690",OLED Display,,Nylon,45,67,1,,Japan
+GARMIN ,Smartwatch,Fenix 5X,Red,"28,999","58,490",OLED Display,,Silicone,30,76,1,,Japan
+GARMIN ,Smartwatch,Vivomove Luxe,Red,"29,900","52,990",AMOLED Display,,Silicone,14,76,1,,Japan
+GARMIN ,Smartwatch,Fenix 6,Red,"29,900","82,990",OLED Display,,Leather,30,56,1,,Japan
+GARMIN ,Smartwatch,Vivomove,Red,"29,900","36,790",AMOLED Display,3.3,Silicone,7,45,1,,Japan
+GARMIN ,Smartwatch,Fenix 6S,Red,"29,990","84,090",LED Display,,Stainless Steel,30,45,1,,Japan
+GARMIN ,Smartwatch,Forerunner 945,Red,"29,990","62,490",OLED Display,4.2,Silicone,14,45,1,,Japan
+GARMIN ,Smartwatch,Forerunner 55,Red,"29,990","20,990",AMOLED Display,,Silicone,7,56,1,,Japan
+GARMIN ,Smartwatch,VIVOMOVE LUXE,Red,"29,999","47,490",AMOLED Display,,Silicone,14,56,1,,Japan
+GARMIN ,Smartwatch,Lily,Red,"30,000","25,990",AMOLED Display,3.3,Silicone,7,54,1,,Japan
+GARMIN ,Smartwatch,Fenix 5X Plus,Red,"30,400","79,990",AMOLED Display,,Silicone,30,45,1,,Japan
+GARMIN ,Smartwatch,Swim 2,Red,"30,400","26,990",AMOLED Display,,Silicone,7,45,1,,Japan
+GARMIN ,Smartwatch,Vivoactive 3 Element,Red,"30,990","16,990",AMOLED Display,3,Silicone,7,56,1,,Japan
+GARMIN ,Smartwatch,Vivomove 3S,Red,"31,400","25,990",AMOLED Display,,Silicone,14,56,1,,Japan
+GARMIN ,Smartwatch,Forerunner 55,Red,"31,400","20,990",OLED Display,,Silicone,14,56,1,,Japan
+GARMIN ,Smartwatch,Vivoactive 3 Music,Red,"31,400","29,290",OLED Display,3.6,Silicone,14,65,1,,Japan
+GARMIN ,Smartwatch,Vivomove HR,Red,"31,400","17,990",OLED Display,3.6,Silicone,14,545,1,,Japan
+GARMIN ,Smartwatch,Fenix 6X,Red,"31,400","96,390",OLED Display,,Leather,45,45,1,,Japan
+GARMIN ,Smartwatch,HRM-Swim,Red,"31,400","8,990",AMOLED Display,,Silicone,14,34,1,,Japan
+GARMIN ,Smartwatch,Garmin Instinct Solar Tactical,Red,"31,600","51,990",AMOLED Display,,Silicone,14,53,1,,Japan
+GARMIN ,Smartwatch,Fenix 5S Frost Blue,Red,"31,990","53,190",AMOLED Display,,Silicone,30,43,1,,Japan
+GARMIN ,Smartwatch,Forerunner 935,Red,"31,990","48,790",AMOLED Display,4.7,Silicone,14,34,1,,Japan
+GARMIN ,Smartwatch,Hybrid 3,Red,"31,999","25,990",LED Display,,Silicone,14,243,1,,Japan
+GARMIN ,Smartwatch,Forerunner 245 Music Japan Edition,Red,"31,999","36,490",LED Display,,Silicone,14,44,1,,Japan
+GARMIN ,Smartwatch,Fenix 5,Red,"32,380","52,990",AMOLED Display,,Silicone,30,44,1,,Japan
+GARMIN ,Smartwatch,Instinct Solar Tidal,Red,"32,900","41,490",AMOLED Display,,Silicone,14,54,1,,Japan
+GARMIN ,Smartwatch,Fenix 5S Plus,Red,"32,959","53,190",AMOLED Display,,Silicone,30,54,1,,Japan
+GARMIN ,Smartwatch,Fenix 6 Sapphire Titanium,Red,"32,990","96,690",AMOLED Display,,Leather ,45,656,1,,Japan
+GARMIN ,Smartwatch,Fenix 6 Sapphire Gray DLC,Red,"33,490","82,990",AMOLED Display,,Leather,30,55,1,,Japan
+GARMIN ,Smartwatch,Vivoactive 3 Music,Red,"33,742","26,990",OLED Display,3.6,Silicone,14,45,1,,Japan
+GARMIN ,Smartwatch,Forerunner 935,Red,"33,900","48,990",OLED Display,4.7,Silicone,14,34,1,,Japan
+GARMIN ,Smartwatch,Forerunner 745 Whitestone,Red,"33,900","51,990",OLED Display,,Silicone,14,3,1,,Japan
+GARMIN ,Smartwatch,VIVOACTIVE 4S,Red,"33,900","34,990",OLED Display,,Silicone,14,43,1,,India
+GARMIN ,Smartwatch,Forerunner 935,Red,"33,900","42,990",OLED Display,4.7,Silicone,14,54,1,,India
+GARMIN ,Smartwatch,Forerunner 235,Red,"33,900","22,990",LED Display,4.7,Silicone,14,54,1,,India
+GARMIN ,Smartwatch,Fenix 6S,Red,"33,900","86,690",AMOLED Display,,Nylon,45,56,1,,India
+GARMIN ,Smartwatch,Forerunner 235,Red,"33,900","31,197",LED Display,4.7,Silicone,14,4,1,,India
+GARMIN ,Smartwatch,Venu,Red,"34,900","39,990",LED Display,4,Silicone,14,44,1,,India
+GARMIN ,Smartwatch,Vivoactive 4,Red,"34,990","34,990",AMOLED Display,4.3,Silicone,14,5,1,,India
+GARMIN ,Smartwatch,Forerunner 245 Music,Red,"34,990","34,990",AMOLED Display,4.2,Silicone,14,6,1,,India
+GARMIN ,Smartwatch,Fenix 6 Pro Solar,Red,"34,990","88,490",AMOLED Display,,Nylon,45,556,1,,India
+GARMIN ,Smartwatch,Garmin Instinct Solar Tactical,Red,"34,990","47,490",AMOLED Display,,Silicone,14,65,1,,India
+GARMIN ,Smartwatch,Forerunner 745 Black,Red,"34,999","51,990",AMOLED Display,5,Silicone,14,56,1,,India
+GARMIN ,Smartwatch,Vivoactive HR,Red,"34,999","21,990",AMOLED Display,3.5,Silicone,14,56,1,,India
+GARMIN ,Smartwatch,Fenix 5s,Red,"35,990","54,990",AMOLED Display,,Silicone,30,45,1,,India
+GARMIN ,Smartwatch,vivoactive 4S 40mm,Red,"36,900","34,990",AMOLED Display,5,Silicone,14,344,1,,India
+GARMIN ,Smartwatch,Instinct,Red,"36,999","26,990",OLED Display,4.4,Silicone,14,43,1,,India
+GARMIN ,Smartwatch,Instinct Solar Camo Edition,Red,"37,490","47,490",AMOLED Display,4.7,Silicone,14,43,1,,India
+GARMIN ,Smartwatch,Vivomove 3S,Red,"37,490","25,990",AMOLED Display,,Silicone,14,43,1,,India
+GARMIN ,Smartwatch,Lily,Red,"37,490","20,990",LED Display,3.3,Silicone,14,54,1,,France
+GARMIN ,Smartwatch,Vivoactive 3 Element Cerise,Red,"37,490","16,990",LED Display,,Silicone,14,65,1,,France
+GARMIN ,Smartwatch,Forerunner 235,Red,"37,990","27,790",LED Display,4.7,Silicone,14,65,1,,France
+GARMIN ,Smartwatch,VIVOMOVE 3S Navy,Red,"39,490","25,990",LED Display,,Silicone,14,76,1,,India
+GARMIN ,Smartwatch,Fenix 5s,Red,"39,990","49,990",AMOLED Display,,Silicone,30,87,1,,India
+GARMIN ,Smartwatch,Vivoactive 4,Red,"39,990","34,990",LED Display,4.3,Silicone,14,976,1,,India
+GARMIN ,Smartwatch,Vivoactive 3 Music,Red,"39,990","26,990",LED Display,3.6,Silicone,14,56,1,,India
+GARMIN ,Smartwatch,Forerunner15 Heart,Red,"39,990","14,499",AMOLED Display,4.7,Silicone,14,454,1,,India
+GARMIN ,Smartwatch,Running GPS 935,Red,"39,990","42,990",AMOLED Display,,Leather,14,43,1,,Japan
+GARMIN ,Smartwatch,Forerunner,Red,"40,000","44,990",AMOLED Display,,Leather,14,43,1,,Japan
+GARMIN ,Smartwatch,Approach S20,Red,"40,000","19,990",OLED Display,4.1,Silicone,12,323,1,,Japan
+GARMIN ,Smartwatch,Forerunner 235 Activity Tracker,Red,"40,190","22,990",AMOLED Display,,Silicone,14,34,1,,Japan
+GARMIN ,Smartwatch,Vivoactive 3 element,Red,"40,190","29,990",AMOLED Display,3.6,Silicone,14,43,1,,Japan
+GARMIN ,Smartwatch,Fenix,Red,"40,900","54,990",AMOLED Display,,Leather,30,54,1,,Russia
+GARMIN ,Smartwatch,Forerunner 35,Red,"41,900","16,990",AMOLED Display,,Silicone,14,65,1,,Russia
+GARMIN ,Smartwatch,Forerunner,Red,"41,990","16,990",AMOLED Display,,Silicone,14,76,1,,Russia
+GARMIN ,Smartwatch,Forerunner,Red,"42,990","29,990",AMOLED Display,,Silicone,14,34,1,,Russia
+GARMIN ,Smartwatch,Vivoactive 3 element,Red,"42,990","24,990",LED Display,3.6,Silicone,14,34,1,,Russia
+GARMIN ,Smartwatch,Rubber 35,Red,"42,990","16,990",LED Display,2,Silicone,14,43,1,,Russia
+GARMIN ,Smartwatch,FORRUNNER 235,Red,"43,900","22,990",LED Display,,Silicone,14,43,1,,Russia
+GARMIN ,Smartwatch,Forerunner,Red,"43,900","27,990",LED Display,,Silicone,14,23,1,,Russia
+GARMIN ,Smartwatch,Forerunner Fitness Notifier,Red,"43,900","16,743",LED Display,,Silicone,14,43,1,,Russia
+GARMIN ,Smartwatch,Vivomove HR,Red,"43,900","19,990",LED Display,3.7,Silicone,14,54,1,,Russia
+GARMIN ,Smartwatch,Vivoactive 3 element,Red,"44,900","16,990",AMOLED Display,3.6,Silicone,14,56,1,,Russia
+GARMIN ,Smartwatch,Vivoactive,Red,"44,990","27,990",AMOLED Display,4.8,Silicone,14,78,1,,Russia
+GARMIN ,Smartwatch,Forerunner 735XT,Red,"45,690","39,990",LED Display,,Silicone,14,998,1,,Russia
+GARMIN ,Smartwatch,HR GPS Smart,Red,"45,690","20,000",AMOLED Display,,Silicone,14,76,1,,Russia
+GARMIN ,Smartwatch,Hybrid,Red,"45,690","21,335",LED Display,,Silicone,7,65,1,,Russia
+OnePlus ,Smartwatch,Watch,Red,"45,690","16,999",AMOLED Display,4.4,Elastomer,14,45,1,,Russia
+Huawei,Smartwatch,GT2 46mm,Red,"45,690","20,990",AMOLED Display,4.5,Elastomer,14,34,1,,Russia
+Huawei,Smartwatch,GT2 Pro,Red,"45,690","29,990",AMOLED Display,4.4,Elastomer,14,43,1,,Russia
+Huawei,Smartwatch,GT2 Pro,Red,"46,990","34,990",AMOLED Display,3.5,Elastomer,14,65,1,,Russia
+Huawei,Smartwatch,GT2 eSport,Red,"46,990","19,990",AMOLED Display,4.3,Elastomer,14,76,1,,Russia
+Huawei,Smartwatch,GT2 eSport,Red,"46,990","19,990",AMOLED Display,4.3,Elastomer,14,78,1,,Russia
+Huawei,Smartwatch,GT2 eActive,Red,"46,990","19,990",AMOLED Display,4.3,Thermoplastic polyurethane,14,67,1,,Russia
+Huawei,Smartwatch,GT2 42mm,Red,"46,990","19,990",AMOLED Display,4.3,Elastomer,14,65,1,,Russia
+Huawei,Smartwatch,Stainless Steel,Red,"47,490","19,990",AMOLED Display,4.5,Leather,14,45,1,,Russia
+Huawei,Smartwatch,GT Active,Red,"47,990","20,990",AMOLED Display,4.4,Silicone,14,544,1,,Russia
+Huawei,Smartwatch,GT Active,Red,"48,490","20,990",AMOLED Display,4.4,Silicone,14,43,1,,Russia
+Huawei,Smartwatch,GT Sport,Red,"48,490","20,990",AMOLED Display,4.4,Silicone,14,54,1,,Russia
+Huawei,Smartwatch,GT Classic,Red,"48,490","21,990",AMOLED Display,4.5,Leather,14,65,1,,China
+Huawei,Smartwatch,GT2 46mm,Red,"48,490","30,990",AMOLED Display,4.5,Stainless Steel,14,76,1,,China
+Huawei,Smartwatch,Fit,Red,"48,900","9,999",AMOLED Display,3.4,Silicone,7,54,1,,China
+Huawei,Smartwatch,Fit,Red,"49,990","9,999",AMOLED Display,3.4,Silicone,7,45,1,,China
+Huawei,Smartwatch,Watch 2 Sport,Red,"49,999","29,999",AMOLED Display,3.8,Silicone,7,23,1,,China
+Huawei,Smartwatch,Watch 32564546,Red,"50,400","49,999",AMOLED Display,4.1,Silicone,14,43,1,,China
+Huawei,Smartwatch,Watch 2,Red,"50,400","25,999",AMOLED Display,3.9,Leather,7,4,1,,China
+Huawei,Smartwatch,Watch 36456,Red,"50,408","55,000",AMOLED Display,4.1,Silicone,14,4,1,,China
+Huawei,Smartwatch,GT Fortuna-B19S Sport,Red,"50,900","20,990",AMOLED Display,4.1,Elastomer,14,34,1,,China
+GOQii,FitnessBand,HR,Red,"52,900","1,999",OLED Display,3.8,Silicone,7,43,1,,China
+GOQii,FitnessBand,Vital,Red,"52,900","3,499",OLED Display,3.7,Thermoplastic polyurethane,7,23,1,,China
+FOSSIL ,Smartwatch,Gen 5E,Red,"52,900","18,495",AMOLED Display,4.2,Stainless Steel,1,32,1,,China
+boAt ,Smartwatch,Vertex,Red,"53,900","6,990",AMOLED Display,3.9,Silicone,7,43,1,,China
+Crossbeats,Smartwatch,Orbit Sport,Red,"54,990","9,999",IPS Display,4.1,Silicone,10,319,1,,China
+Crossbeats,Smartwatch,Ignite S3,Red,"54,990","9,999",IPS Display,3.9,Silicone,7,96,1,,China
+Crossbeats,Smartwatch,Ace,Red,"55,000","9,999",IPS Display,3.9,Silicone,15,545,1,,China
+Crossbeats,Smartwatch,Orbit ,Red,"56,490","9,999",IPS Display,3.7,Silicone,10,281,1,,China
+Crossbeats,Smartwatch,Ignite  ,Red,"56,900","7,999",IPS Display,3.9,Silicone,10,309,1,,China
+Crossbeats,Smartwatch,Ignite Pro,Red,"56,900","9,999",IPS Display,4.2,Silicone,7,84,1,,China
+Crossbeats,Smartwatch,Orbit - Special Edition,Red,"56,900","9,999",IPS Display,3.9,Leather,10,108,1,,China
+Crossbeats,Smartwatch,Trak,Red,"58,490","9,999",IPS Display,3.8,Silicone,15,127,1,,China
+dizo by realme ,Smartwatch,Watch 2,Red,"59,990","3,999",LCD Display,4.3,Silicone,10,34,1,,China
+dizo by realme ,Smartwatch,Watch Pro,Red,"60,900","5,999",LCD Display,4.2,Silicone,14,360,1,,China
+Noise ,Smartwatch,ColorFit Caliber,Red,"64,900","3,999",TFT-LCD Display,4.3,Silicone,15,5,1,,China
+Noise ,Smartwatch,Evolve 2 ,Red,"64,900","7,999",AMOLED Display,3.9,Silicone,7,43,1,,China
+Noise ,Smartwatch,ColorFit IconBuzz,Red,"65,900","4,999",TFT-LCD Display,,Silicone,7,3,1,,China
+Ptron,Smartwatch,Pulsefit,Red,"67,900","3,199",TFT-LCD Display,2.5,Silicone,3,4,1,,China
+Ptron,Smartwatch,Pulsefit P461,Red,"67,900","2,999",TFT-LCD Display,3.3,Silicone,3,477,1,,China
+Ptron,Smartwatch,Pulsefit P261,Red,"67,900","2,999",TFT-LCD Display,3.1,Silicone,3,327,1,,China
+Ptron,Smartwatch,Tronite,Red,"67,900","2,000",LCD Display,3.7,Silicone,3,16,1,,China
+Ptron,Smartwatch,Rhythm,Red,"69,900","3,000",LCD Display,3.4,Silicone,7,120,1,,China
+Zebronics,Smartwatch,ZEB-FIT8220CH,Red,"69,900","3,999",TFT-LCD Display,4.5,Silicone,7,34,1,,China
+Zebronics,Smartwatch,ZEB-FIT4220CH,Red,"69,900","7,999",TFT-LCD Display,4.2,Silicone,10,46,1,,China
+Zebronics,Smartwatch,ZEB-FIT920CH,Red,"69,900","4,499",TFT-LCD Display,4.6,Thermoplastic polyurethane,7,41,1,,China
+Zebronics,Smartwatch,ZEB-FITMe,Red,"69,900","4,999",TFT-LCD Display,4.5,Thermoplastic polyurethane,7,29,1,,China
+Zebronics,Smartwatch,ZEB-FIT5220CH,Red,"70,990","4,999",TFT-LCD Display,,Rubber,7,5,1,,China
+Zebronics,Smartwatch,ZEB-FIT1220CH,Red,"72,990","3,999",TFT-LCD Display,,Silicone,7,5,1,,China
+Zebronics,Smartwatch,ZEB-FIT5220CH,Red,"73,900","4,999",TFT-LCD Display,,Rubber,7,45,1,,China
+Zebronics,Smartwatch,ZEB-FIT650CH,Red,"73,900","4,199",TFT-LCD Display,2.9,Silicone,7,65,1,,China
+Zebronics,Smartwatch,Smarttime 200,Red,"73,900","2,999",TFT-LCD Display,3.1,Rubber,3,87,1,,China
+Zebronics,FitnessBand,ZEB-FIT450,Blue,"73,900","1,899",TFT-LCD Display,3.3,Silicone,3,9,1,,China
+Zebronics,FitnessBand,zeb-fit,Blue,"74,990","1,899",TFT-LCD Display,3.3,Silicone,3,6,1,,China
+Zebronics,Smartwatch,Fit-650,Blue,"74,990","4,199",TFT-LCD Display,3.1,Leather,3,3,1,,China
+Fire-Boltt,Smartwatch,Ninja touch to Wake,Blue,"76,990","4,999",HD Display,3.9,Silicone,5,6046,1,,China
+Fire-Boltt,Smartwatch,Ultron,Blue,"77,900","10,999",AMOLED Display,4.1,Silicone,5,229,1,,China
+Fire-Boltt,Smartwatch,Ninja Pro,Blue,"77,900","4,999",HD Display,4,Silicone,10,688,1,,China
+Fire-Boltt,Smartwatch,Mercury,Blue,"77,990","7,999",HD Display,4,Silicone,8,4941,1,,China
+Fire-Boltt,Smartwatch,SpO2 Full Touch,Blue,"77,990","5,999",HD Display,4,Silicone,8,2525,1,,China
+Fire-Boltt,Smartwatch,Max,Blue,"79,900","12,999",AMOLED Display,4,Silicone,10,519,1,,China
+Fire-Boltt,Smartwatch,AI-BT Calling,Blue,"79,990","9,999",HD Display,3.7,Silicone,10,423,1,,China
+Fire-Boltt,Smartwatch,BSW004,Blue,"81,990","9,999",LCD Display,,Silicone,7,55,1,,China
+Fire-Boltt,Smartwatch,Spin,Blue,"84,490","5,999",TFT-LCD Display,2.4,Silicone,5,15,1,,China
+Fire-Boltt,Smartwatch,Talk Bluetooth,Blue,"86,990","9,999",HD Display,4.1,Silicone,10,923,1,,China
+Fire-Boltt,Smartwatch,Almighty,Orange,"1,05,990","14,999",AMOLED Display,4.1,Silicone,10,212,1,,China
+Fire-Boltt,Smartwatch,Mercury,Orange,"1,14,900","7,999",HD Display,4,Silicone,8,4941,1,,China
+Fire-Boltt,Smartwatch,Spin,Orange,"1,22,090","5,999",TFT-LCD Display,2.4,Silicone,5,15,1,,China
+Fire-Boltt,Smartwatch,Ninja Pro,Orange,"1,22,090","4,999",HD Display,4,Silicone,10,688,1,,China
